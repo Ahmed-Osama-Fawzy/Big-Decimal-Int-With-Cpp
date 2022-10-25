@@ -390,7 +390,7 @@ char BigDecimalInt:: sign() {
     }
 }
 
-ostream& operator<< (ostream& output, BigDecimalInt a)
+ostream& operator<< (ostream& output, BigDecimalInt a) //cout operator
 {
     cout<<a.num;
 }
