@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1666661441 source:c:\codeblocks\oop_assignment_1\src\bigdecimalint.cpp
+	"BigDecimalInt.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+
+1666660044 c:\codeblocks\oop_assignment_1\include\bigdecimalint.h
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+
+1666661037 source:c:\codeblocks\oop_assignment_1\main.cpp
+	"BigDecimalInt.h"
+	<string>
+	<iostream>
+
